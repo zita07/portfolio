@@ -10,12 +10,12 @@ See live project version [here](https://zita07.github.io/portfolio/)
 
 ### ⭐️Resources⭐️
 ***Everything that used in the project***
-
-**🔗[SASS](https://sass-lang.com/guide)**
-🔗[Bootstrap 5](https://getbootstrap.com/docs/5.1/getting-started/download/)
-🔗[Google fonts](https://fonts.google.com)
-🔗[Fontawesome](https://fontawesome.com/start)
-🔗[Tablericons](https://tablericons.com)
-🔗[Bootstrap icons](https://icons.getbootstrap.com)
-🔗[Illustrations](https://www.manypixels.co/gallery)
-🔗[Waves style](https://getwaves.io)
+  - 🔗[SASS](https://sass-lang.com/guide)
+  - 🔗[Bootstrap 5](https://getbootstrap.com/docs/5.1/getting-started/download/)
+  - 🔗[Google fonts](https://fonts.google.com)
+  - 🔗[Fontawesome](https://fontawesome.com/start)
+  - 🔗[Tablericons](https://tablericons.com)
+  - 🔗[Bootstrap icons](https://icons.getbootstrap.com)
+  - 🔗[Illustrations](https://www.manypixels.co/gallery)
+  - 🔗[Waves style](https://getwaves.io)
+  - 🔗[GLightbox](https://biati-digital.github.io/glightbox/)
